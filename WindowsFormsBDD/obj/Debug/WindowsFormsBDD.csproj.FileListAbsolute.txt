@@ -1,0 +1,35 @@
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Form1.resources
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Properties.Resources.resources
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe.config
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.pdb
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.exe
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.pdb
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe.config
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.pdb
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.AssemblyReference.cache
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Form1.resources
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Properties.Resources.resources
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.GenerateResource.cache
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.CoreCompileInputs.cache
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.exe
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.pdb
+C:\dev study\cSharp\s2\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.frm_addStruct.resources
+C:\Users\pc\source\repos\WindowsFormsBDD\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.frm_addStruct.resources
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe.config
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.exe
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\bin\Debug\WindowsFormsBDD.pdb
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Form1.resources
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.frm_addStruct.resources
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.Properties.Resources.resources
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.exe
+C:\Users\pc\source\repos\Exam\WindowsFormsBDD\obj\Debug\WindowsFormsBDD.pdb
